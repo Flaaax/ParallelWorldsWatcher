@@ -1,0 +1,116 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+
+  "${modID}:WeakPressure": {
+    "NAME": "劣化点穴",
+    "DESCRIPTION": "施加 !M! 层 *印记 。 NL ${modID}:凋零 。"
+  },
+
+  "${modID}:Strike_Spiritor": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。"
+  },
+
+  "${modID}:Defend_Spiritor": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡 。"
+  },
+
+  "${modID}:InnerStrike": {
+    "NAME": "穿透打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 *印记 。"
+  },
+
+  "${modID}:FingerPressure": {
+    "NAME": "指",
+    "DESCRIPTION": "施加 !M! 层 *印记 。 NL ${modID}:凋零 。 NL  消耗 。"
+  },
+
+  "${modID}:FingerStorm": {
+    "NAME": "千夫所指",
+    "DESCRIPTION": "将 !M! 张 *指 加入手牌。"
+  },
+
+  "${modID}:MarkExplosion": {
+    "NAME": "测试卡牌",
+    "DESCRIPTION": "施加 !M! 层 *印记 。 NL 当这名敌人死亡时，将他的 *印记 层数施加给所有敌人。 NL ${modID}:凋零 。 *消耗 。"
+  },
+
+  "${modID}:SoulClaw": {
+    "NAME": "灵魂爪击",
+    "DESCRIPTION": "造成 !D! 点伤害 NL 在空 ${modID}:摄灵槽 中 ${modID}:摄灵 一张复制。 NL 消耗 。"
+  },
+
+  "${modID}:SkyThunder": {
+    "NAME": "天雷阵",
+    "DESCRIPTION": "对所有敌人造成 !D! 伤害。NL 施加未被格挡伤害层数的 *引雷 。 NL  消耗 。"
+  },
+
+  "${modID}:SoulExtend": {
+    "NAME": "灵魂容器",
+    "DESCRIPTION": "获得 !M! 个 ${modID}:摄灵槽 。"
+  },
+
+  "${modID}:TimeStrike": {
+    "NAME": "时流打击",
+    "DESCRIPTION": "${modID}:摄灵 。 ${modID}:消逝  2。 NL *消逝 : 造成 !D! 伤害并返回手牌。"
+  },
+
+  "${modID}:CorruptedCard": {
+    "NAME": "错误卡牌",
+    "DESCRIPTION": "这张牌被腐化了。"
+  },
+
+  "${modID}:BitesTheDust": {
+    "NAME": "败者食尘",
+    "DESCRIPTION": "将你的卡组恢复至抽牌堆并移除这张牌。 NL 重新开始你的回合。 NL *虚无 。",
+    "UPGRADE_DESCRIPTION": "将你的卡组恢复至抽牌堆并移除这张牌。 NL 重新开始你的回合。"
+  },
+
+  "${modID}:PlayWithFire": {
+    "NAME": "阳炎",
+    "DESCRIPTION": "本回合内吸收所有伤害，在下回合 *反弹 。 NL *保留 。"
+  },
+
+  "${modID}:Omega_Spiritor": {
+    "NAME": "欧米茄",
+    "DESCRIPTION": "*触发 相邻的 ${modID}:摄灵牌 效果。",
+    "UPGRADE_DESCRIPTION": "*触发 所有的 ${modID}:摄灵牌 效果。"
+  },
+
+  "${modID}:AlchemistSpell": {
+    "NAME": "炼金法术",
+    "DESCRIPTION": "${modID}:摄灵 1张 *欧米茄 。",
+    "UPGRADE_DESCRIPTION": "${modID}:摄灵 1张*欧米茄+。"
+  },
+
+  "${modID}:Chills": {
+    "NAME": "恶寒",
+    "DESCRIPTION": "随机施加2层 *印记 !M! 次。"
+  },
+
+  "${modID}:ImpendingDoom": {
+    "NAME": "末日",
+    "DESCRIPTION": "${modID}:凋零 。",
+    "UPGRADE_DESCRIPTION": "${modID}:凋零 。 NL ${modID}:凋零 。"
+  },
+
+  "${modID}:OminousBlade": {
+    "NAME": "不祥之刃",
+    "DESCRIPTION": "${modID}:摄灵 1张 *末日 。"
+  },
+
+  "${modID}:Release": {
+    "NAME": "释灵",
+    "DESCRIPTION": "抽 !M! 张牌 。 移除1张 ${modID}:摄灵牌 并触发它两次。"
+  }
+}

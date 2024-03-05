@@ -1,0 +1,43 @@
+[
+  {
+    "PROPER_NAME": "This is displayed in the tooltip.",
+    "NAMES": [
+      "these",
+      "are",
+      "detected",
+      "in",
+      "the",
+      "text"
+    ],
+    "DESCRIPTION": "This is displayed in the tooltip. Spaces should not be used be avoided in NAMES, with the exception of multi-word keywords (see next entry)."
+  },
+  {
+    "PROPER_NAME": "凋零",
+    "NAMES": [
+      "凋零"
+    ],
+    "DESCRIPTION": "所有敌人失去相当于 #y印记 层数的生命。"
+  },
+  {
+    "PROPER_NAME": "摄灵",
+    "NAMES": [
+      "摄灵",
+      "摄灵牌"
+    ],
+    "DESCRIPTION": "摄灵牌会在每回合结束时触发效果。"
+  },
+  {
+    "PROPER_NAME": "消逝",
+    "NAMES": [
+      "消逝"
+    ],
+    "DESCRIPTION": "摄灵时，在一定回合后 #y消耗 。"
+  },
+  {
+    "PROPER_NAME": "摄灵槽",
+    "NAMES": [
+      "摄灵槽"
+    ],
+    "DESCRIPTION": "摄灵牌需要占用摄灵槽。"
+  }
+]

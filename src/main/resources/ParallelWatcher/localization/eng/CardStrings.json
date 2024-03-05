@@ -1,0 +1,158 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+
+  "${modID}:WeakPressure": {
+    "NAME": "Weak Pressure",
+    "DESCRIPTION": "Apply !M! *Mark. NL ${modID}:Wither.",
+    "EXTENDED_DESCRIPTION": [
+      "this is extended description"
+    ]
+  },
+
+  "${modID}:Strike_Spiritor": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+
+  "${modID}:Defend_Spiritor": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+
+  "${modID}:InnerStrike": {
+    "NAME": "Inner Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! *Mark."
+  },
+
+  "${modID}:FingerPressure": {
+    "NAME": "Stab",
+    "DESCRIPTION": "Apply !M! *Mark. NL ${modID}:Wither. NL Exhaust."
+  },
+
+  "${modID}:FingerStorm": {
+    "NAME": "Stab Stab",
+    "DESCRIPTION": "Add !M! *Stab into your hand."
+  },
+
+  "${modID}:MarkExplosion": {
+    "NAME": "Mark Explosion",
+    "DESCRIPTION": "Apply !M! *Mark. NL When the enemy dies, apply its *Mark to ALL enemies. NL ${modID}:Wither. Exhaust."
+  },
+
+  "${modID}:SoulClaw": {
+    "NAME": "Soul Claw",
+    "DESCRIPTION": "Deal !D! damage. NL *Trigger: ${modID}:Charge a copy in empty orb slots."
+  },
+
+  "${modID}:SkyThunder": {
+    "NAME": "Sky Thunder",
+    "DESCRIPTION": "Deal !D! damage to all enemies. NL Apply *Channeling equal to unblocked damage. NL Exhaust."
+  },
+
+  "${modID}:SoulExtend": {
+    "NAME": "Soul Extend",
+    "DESCRIPTION": "Gain !M! Orb slots"
+  },
+
+  "${modID}:TimeStrike": {
+    "NAME": "Temporal Strike",
+    "DESCRIPTION": "${modID}:Charge. ${modID}:Return. NL ${modID}:Elapse 2: deal !D! Damage."
+  },
+
+  "${modID}:CorruptedCard": {
+    "NAME": "Corrupted Card",
+    "DESCRIPTION": "This card is corrupted."
+  },
+
+  "${modID}:BitesTheDust": {
+    "NAME": "Bites the Dust",
+    "DESCRIPTION": "Return your deck to draw pile. NL Remove this card. NL End your turn. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Return your deck to draw pile. NL Remove this card. NL End your turn."
+  },
+
+  "${modID}:PlayWithFire": {
+    "NAME": "Orion Flame",
+    "DESCRIPTION": "Reflect all unblocked damage this turn. NL Retain."
+  },
+
+  "${modID}:Omega_Spiritor": {
+    "NAME": "Omega",
+    "DESCRIPTION": "Trigger adjacent ${modID}:SoulCard effects.",
+    "UPGRADE_DESCRIPTION": "Trigger all ${modID}:SoulCard effects."
+  },
+
+  "${modID}:AlchemistSpell": {
+    "NAME": "Alchemist's Spell",
+    "DESCRIPTION": "${modID}:Charge 1 *Omega",
+    "UPGRADE_DESCRIPTION": "${modID}:Charge 1 *Omega+"
+  },
+
+  "${modID}:Chills": {
+    "NAME": "Chills",
+    "DESCRIPTION": "Apply 2 *Marks !M! times randomly."
+  },
+
+  "${modID}:ImpendingDoom": {
+    "NAME": "Impending Doom",
+    "DESCRIPTION": "${modID}:Wither.",
+    "UPGRADE_DESCRIPTION": "${modID}:Wither. NL ${modID}:Wither."
+  },
+
+  "${modID}:OminousBlade": {
+    "NAME": "Ominous Blade",
+    "DESCRIPTION": "${modID}:Charge 1 NL *Impending *Doom."
+  },
+
+  "${modID}:Release": {
+    "NAME": "Release",
+    "DESCRIPTION": "Draw !M! cards. Remove 1 ${modID}:SoulCard and trigger it twice."
+  },
+
+  "${modID}:Hollow": {
+    "NAME": "Hollow",
+    "DESCRIPTION": "Next turn, lose [R]. NL ${modID}:Elapse 1.",
+    "UPGRADE_DESCRIPTION": "Next turn, lose [R] [R]. NL ${modID}:Elapse 1."
+  },
+
+  "${modID}:SoulDraw": {
+    "NAME": "Soul Draw",
+    "DESCRIPTION": "Next turn, NL draw !M! cards. NL ${modID}:Elapse 1."
+  },
+
+  "${modID}:SoulStrike": {
+    "NAME": "Soul Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+
+  "${modID}:SoulDefend": {
+    "NAME": "Soul Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+
+  "${modID}:SoulCall": {
+    "NAME": "Soul Call",
+    "DESCRIPTION": "Channel !M! random ${modID}:SoulCard.",
+    "UPGRADE_DESCRIPTION": "Channel !M! random ${modID}:SoulCards."
+  },
+
+  "${modID}:Command": {
+    "NAME": "Command",
+    "DESCRIPTION": "Deal !D! damage. NL This monster is a priority target for ${modID}:SoulCards.",
+    "UPGRADE_DESCRIPTION": "Channel !M! random ${modID}:SoulCards."
+  },
+
+  "${modID}:SpiritShield": {
+    "NAME": "Spirit Shield",
+    "DESCRIPTION": "TESTING",
+    "UPGRADE_DESCRIPTION": "UPGRADE_TESTING"
+  }
+}

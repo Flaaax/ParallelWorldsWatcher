@@ -1,0 +1,52 @@
+[
+  {
+    "PROPER_NAME": "This is displayed in the tooltip.",
+    "NAMES": [
+      "these",
+      "are",
+      "detected",
+      "in",
+      "the",
+      "text"
+    ],
+    "DESCRIPTION": "This is displayed in the tooltip. Spaces should not be used be avoided in NAMES, with the exception of multi-word keywords (see next entry)."
+  },
+  {
+    "PROPER_NAME": "Wither",
+    "NAMES": [
+      "Wither",
+      "wither"
+    ],
+    "DESCRIPTION": "ALL enemies lose HP equal to their #yMark."
+  },
+  {
+    "PROPER_NAME": "Charge",
+    "NAMES": [
+      "Charge",
+      "charge",
+      "charged",
+      "Charged",
+      "SoulCards",
+      "SoulCard"
+    ],
+    "DESCRIPTION": "Charged cards are #ySoul #yCards, activate at the end of turn."
+  },
+  {
+    "PROPER_NAME": "Elapse",
+    "NAMES": [
+      "Elapse",
+      "elapse",
+      "Elapsed",
+      "elapsed"
+    ],
+    "DESCRIPTION": "As a #ySoul #yCard, exhaust after certain turns"
+  },
+  {
+    "PROPER_NAME": "Return",
+    "NAMES": [
+      "Return",
+      "return"
+    ],
+    "DESCRIPTION": "When elapsed or evoked, return to your hand."
+  }
+]

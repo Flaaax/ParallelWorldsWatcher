@@ -1,0 +1,11 @@
+{
+  "modid": "${modID}",
+  "name": "The Parallel World's Watcher",
+  "author_list": ["Flaaax"],
+  "description": "!(project.description)",
+  "version": "${project.version}",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}
